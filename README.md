@@ -2,9 +2,11 @@
 
 ## Project-Discribtion
 
+
 This dataset contains a comprehensive list of the most famous songs of 2023 as listed on Spotify. The dataset offers a wealth of features beyond what is typically available in similar datasets. It provides insights into each song's attributes, popularity, and presence on various music platforms. The dataset includes information such as track name, artist(s) name, release date, Spotify playlists and charts, streaming statistics, Apple Music presence, Deezer presence, Shazam charts, and various audio features.
 
 ## Key Features
+---
 
 - Track Name: Name of the song
 - Artist(s) Name: Name of the artist(s) of the song
@@ -32,15 +34,19 @@ This dataset contains a comprehensive list of the most famous songs of 2023 as l
 - Speechiness %: Amount of spoken words in the song
 
 ## Project Scope
+---
 - Overview Analysis (Artist Impact : Analyzes how artist involvement and attributes relate to a song's success.
 - Music Trend Analysis (Audio Features): Explore patterns in audio features to understand trends and preferences in popular songs
 - Playlist Trends (Platform comparison): Compare the song's popularity across different music platforms.
 
 ## Data Cleaning and Preparation
+---
 - Imported Data into Power BI
 - Transformed Data in Power Query Editor to Prepare for analysis
 - Closed and applied the changes to launch in Power BI
 - Created measures using Dax Functions
 
 ##     Project Analysis/Visualization Tool
+---
 - Power BI
+
